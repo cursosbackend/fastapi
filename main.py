@@ -1,6 +1,6 @@
-from todo.notas.menu import menu
-from todo.notas.ingresar_notas import ingresar_notas
-from todo.notas.calculos import calcular_estadisticas
+from notas.menu import menu
+from notas.ingresar_notas import ingresar_notas
+from notas.calculos import calcular_estadisticas
 
 
 
